@@ -14,6 +14,6 @@
 2. Processed textual data through regularizing, stop words removement, stemming and lemmatizing using Python (NLTK)
 3. Constructed sentiment-charged dictionary through MLE based on Multinomial distribution based on extracted tokens
 4. Acquired 12% excess return by longing the related stocks with the predicted positive sentiment scores of the news
-5. Discerned larger impacts of the negative news than those of the positive news, and analyzed the absorption speed of the news
+5. Discerned larger impacts of the negative news than those of the positive news, and analyzed the absorption speed of the news.
 
 
